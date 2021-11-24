@@ -1,5 +1,5 @@
-# versionControl <h1>Heading</h1>
-# Rest API.      <h2>Sub-heading</h2>
+# versionControl <h1>versionControl</h1>
+# Rest API.      <h2>Rest API</h2>
 
 
 ##Description
